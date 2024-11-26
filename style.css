@@ -1,0 +1,38 @@
+.calendar-day {
+    padding: 10px;
+    background-color: #e3f2fd;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 0.9em;
+  }
+  
+  .calendar-day strong {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .calendar-day span {
+    display: block;
+    font-size: 1em;
+    color: #424242;
+    margin-bottom: 5px;
+  }
+  
+  .calendar-day em {
+    font-size: 0.85em;
+    color: #616161;
+  }
+  
+  .day-shift {
+    background-color: #c8e6c9;
+  }
+  
+  .night-shift {
+    background-color: #ffe082;
+  }
+  
+  .off-day {
+    background-color: #ef9a9a;
+  }
+  
